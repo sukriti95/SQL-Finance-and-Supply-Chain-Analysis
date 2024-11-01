@@ -1,1 +1,1 @@
-# SQL-Finance-and-Supply-Chain-Analysis
+# Finance-and-Supply-Chain-Analysis
